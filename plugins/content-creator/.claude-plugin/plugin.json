@@ -1,0 +1,9 @@
+{
+  "name": "content-creator",
+  "description": "Cross-platform content generation for blogs, videos, and social media",
+  "version": "1.0.0",
+  "author": {
+    "name": "Alysson Franklin"
+  },
+  "homepage": "https://github.com/emilliepost/claude-plugins/tree/main/plugins/content-creator"
+}

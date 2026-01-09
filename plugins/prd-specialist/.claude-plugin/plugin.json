@@ -1,0 +1,9 @@
+{
+  "name": "prd-specialist",
+  "description": "Comprehensive Product Requirements Documents combining strategy, architecture, and user research",
+  "version": "1.0.0",
+  "author": {
+    "name": "Alysson Franklin"
+  },
+  "homepage": "https://github.com/emilliepost/claude-plugins/tree/main/plugins/prd-specialist"
+}

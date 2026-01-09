@@ -1,0 +1,9 @@
+{
+  "name": "product-sales-specialist",
+  "description": "B2B sales support through product design, user research, project management, and creative RFP responses",
+  "version": "1.0.0",
+  "author": {
+    "name": "Alysson Franklin"
+  },
+  "homepage": "https://github.com/emilliepost/claude-plugins/tree/main/plugins/product-sales-specialist"
+}

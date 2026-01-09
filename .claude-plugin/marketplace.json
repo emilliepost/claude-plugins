@@ -21,13 +21,7 @@
       },
       "category": "Development",
       "homepage": "https://github.com/emilliepost/claude-plugins/tree/main/plugins/react-native-dev",
-      "keywords": [
-        "react-native",
-        "mobile",
-        "ios",
-        "android",
-        "typescript"
-      ]
+      "keywords": ["react-native", "mobile", "ios", "android", "typescript"]
     },
     {
       "name": "b2b-project-shipper",
@@ -40,13 +34,176 @@
       },
       "category": "Project Management",
       "homepage": "https://github.com/emilliepost/claude-plugins/tree/main/plugins/b2b-project-shipper",
-      "keywords": [
-        "b2b",
-        "launch",
-        "release",
-        "go-to-market",
-        "enterprise"
-      ]
+      "keywords": ["b2b", "launch", "release", "go-to-market", "enterprise"]
+    },
+    {
+      "name": "product-sales-specialist",
+      "source": "./plugins/product-sales-specialist",
+      "description": "B2B sales support through product design, user research, project management, and creative RFP responses",
+      "version": "1.0.0",
+      "author": {
+        "name": "Alysson Franklin",
+        "url": "https://github.com/ccplugins/awesome-claude-code-plugins"
+      },
+      "category": "Sales",
+      "homepage": "https://github.com/emilliepost/claude-plugins/tree/main/plugins/product-sales-specialist",
+      "keywords": ["b2b", "sales", "rfp", "enterprise", "product"]
+    },
+    {
+      "name": "performance-benchmarker",
+      "source": "./plugins/performance-benchmarker",
+      "description": "Comprehensive performance testing, profiling, and optimization recommendations",
+      "version": "1.0.0",
+      "author": {
+        "name": "Alysson Franklin",
+        "url": "https://github.com/ccplugins/awesome-claude-code-plugins"
+      },
+      "category": "Development",
+      "homepage": "https://github.com/emilliepost/claude-plugins/tree/main/plugins/performance-benchmarker",
+      "keywords": ["performance", "benchmarking", "profiling", "optimization"]
+    },
+    {
+      "name": "test-results-analyzer",
+      "source": "./plugins/test-results-analyzer",
+      "description": "Analyze test results, synthesize test data, identify trends, and generate quality metrics reports",
+      "version": "1.0.0",
+      "author": {
+        "name": "Alysson Franklin",
+        "url": "https://github.com/ccplugins/awesome-claude-code-plugins"
+      },
+      "category": "Testing",
+      "homepage": "https://github.com/emilliepost/claude-plugins/tree/main/plugins/test-results-analyzer",
+      "keywords": ["testing", "qa", "metrics", "analysis"]
+    },
+    {
+      "name": "mobile-ux-optimizer",
+      "source": "./plugins/mobile-ux-optimizer",
+      "description": "Mobile-first UI/UX optimization specialist for responsive design and mobile usability",
+      "version": "1.0.0",
+      "author": {
+        "name": "Alysson Franklin",
+        "url": "https://github.com/ccplugins/awesome-claude-code-plugins"
+      },
+      "category": "Design",
+      "homepage": "https://github.com/emilliepost/claude-plugins/tree/main/plugins/mobile-ux-optimizer",
+      "keywords": ["mobile", "ux", "responsive", "optimization"]
+    },
+    {
+      "name": "ui-designer",
+      "source": "./plugins/ui-designer",
+      "description": "UI design specialist for creating beautiful, functional interfaces and design systems",
+      "version": "1.0.0",
+      "author": {
+        "name": "Alysson Franklin",
+        "url": "https://github.com/ccplugins/awesome-claude-code-plugins"
+      },
+      "category": "Design",
+      "homepage": "https://github.com/emilliepost/claude-plugins/tree/main/plugins/ui-designer",
+      "keywords": ["ui", "design", "interface", "components"]
+    },
+    {
+      "name": "ux-researcher",
+      "source": "./plugins/ux-researcher",
+      "description": "UX research methodologies for user behavior analysis, journey mapping, and design validation",
+      "version": "1.0.0",
+      "author": {
+        "name": "Alysson Franklin",
+        "url": "https://github.com/ccplugins/awesome-claude-code-plugins"
+      },
+      "category": "Design",
+      "homepage": "https://github.com/emilliepost/claude-plugins/tree/main/plugins/ux-researcher",
+      "keywords": ["ux", "research", "user-testing", "journey-mapping"]
+    },
+    {
+      "name": "backend-architect",
+      "source": "./plugins/backend-architect",
+      "description": "Backend system design, API development, database architecture, and scalable server-side solutions",
+      "version": "1.0.0",
+      "author": {
+        "name": "Alysson Franklin",
+        "url": "https://github.com/ccplugins/awesome-claude-code-plugins"
+      },
+      "category": "Development",
+      "homepage": "https://github.com/emilliepost/claude-plugins/tree/main/plugins/backend-architect",
+      "keywords": ["backend", "api", "database", "architecture"]
+    },
+    {
+      "name": "code-architect",
+      "source": "./plugins/code-architect",
+      "description": "Scalable code architecture and folder structure design for features and projects",
+      "version": "1.0.0",
+      "author": {
+        "name": "Alysson Franklin",
+        "url": "https://github.com/ccplugins/awesome-claude-code-plugins"
+      },
+      "category": "Development",
+      "homepage": "https://github.com/emilliepost/claude-plugins/tree/main/plugins/code-architect",
+      "keywords": ["architecture", "structure", "organization", "design-patterns"]
+    },
+    {
+      "name": "app-store-optimizer",
+      "source": "./plugins/app-store-optimizer",
+      "description": "App Store Optimization for maximizing visibility, downloads, and conversion rates",
+      "version": "1.0.0",
+      "author": {
+        "name": "Alysson Franklin",
+        "url": "https://github.com/ccplugins/awesome-claude-code-plugins"
+      },
+      "category": "Marketing",
+      "homepage": "https://github.com/emilliepost/claude-plugins/tree/main/plugins/app-store-optimizer",
+      "keywords": ["aso", "app-store", "marketing", "keywords"]
+    },
+    {
+      "name": "content-creator",
+      "source": "./plugins/content-creator",
+      "description": "Cross-platform content generation for blogs, videos, and social media",
+      "version": "1.0.0",
+      "author": {
+        "name": "Alysson Franklin",
+        "url": "https://github.com/ccplugins/awesome-claude-code-plugins"
+      },
+      "category": "Marketing",
+      "homepage": "https://github.com/emilliepost/claude-plugins/tree/main/plugins/content-creator",
+      "keywords": ["content", "blog", "video", "social-media"]
+    },
+    {
+      "name": "growth-hacker",
+      "source": "./plugins/growth-hacker",
+      "description": "Rapid user acquisition, viral loop creation, and data-driven growth experiments",
+      "version": "1.0.0",
+      "author": {
+        "name": "Alysson Franklin",
+        "url": "https://github.com/ccplugins/awesome-claude-code-plugins"
+      },
+      "category": "Marketing",
+      "homepage": "https://github.com/emilliepost/claude-plugins/tree/main/plugins/growth-hacker",
+      "keywords": ["growth", "viral", "acquisition", "experiments"]
+    },
+    {
+      "name": "prd-specialist",
+      "source": "./plugins/prd-specialist",
+      "description": "Comprehensive Product Requirements Documents combining strategy, architecture, and user research",
+      "version": "1.0.0",
+      "author": {
+        "name": "Alysson Franklin",
+        "url": "https://github.com/ccplugins/awesome-claude-code-plugins"
+      },
+      "category": "Product Management",
+      "homepage": "https://github.com/emilliepost/claude-plugins/tree/main/plugins/prd-specialist",
+      "keywords": ["prd", "product", "requirements", "strategy"]
+    },
+    {
+      "name": "project-curator",
+      "source": "./plugins/project-curator",
+      "description": "Project structure reorganization, folder hierarchy design, and dependency tracking",
+      "version": "1.0.0",
+      "author": {
+        "name": "Alysson Franklin",
+        "url": "https://github.com/ccplugins/awesome-claude-code-plugins"
+      },
+      "category": "Development",
+      "homepage": "https://github.com/emilliepost/claude-plugins/tree/main/plugins/project-curator",
+      "keywords": ["project", "structure", "organization", "refactoring"]
     }
   ]
 }

@@ -1,0 +1,9 @@
+{
+  "name": "ux-researcher",
+  "description": "UX research methodologies for user behavior analysis, journey mapping, and design validation",
+  "version": "1.0.0",
+  "author": {
+    "name": "Alysson Franklin"
+  },
+  "homepage": "https://github.com/emilliepost/claude-plugins/tree/main/plugins/ux-researcher"
+}

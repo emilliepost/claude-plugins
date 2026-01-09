@@ -1,0 +1,9 @@
+{
+  "name": "code-architect",
+  "description": "Scalable code architecture and folder structure design for features and projects",
+  "version": "1.0.0",
+  "author": {
+    "name": "Alysson Franklin"
+  },
+  "homepage": "https://github.com/emilliepost/claude-plugins/tree/main/plugins/code-architect"
+}

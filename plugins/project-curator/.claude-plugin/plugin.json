@@ -1,0 +1,9 @@
+{
+  "name": "project-curator",
+  "description": "Project structure reorganization, folder hierarchy design, and dependency tracking",
+  "version": "1.0.0",
+  "author": {
+    "name": "Alysson Franklin"
+  },
+  "homepage": "https://github.com/emilliepost/claude-plugins/tree/main/plugins/project-curator"
+}
