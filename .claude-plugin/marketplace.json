@@ -1,0 +1,33 @@
+{
+  "name": "emil-claude-plugins",
+  "owner": {
+    "name": "Emil Shakirov",
+    "email": "emil@example.com"
+  },
+  "metadata": {
+    "description": "Personal Claude Code plugins collection",
+    "version": "1.0.0",
+    "homepage": "https://github.com/emilliepost/claude-plugins"
+  },
+  "plugins": [
+    {
+      "name": "react-native-dev",
+      "source": "./plugins/react-native-dev",
+      "description": "Expert React Native development assistant for code analysis, components, debugging, and optimization",
+      "version": "1.0.0",
+      "author": {
+        "name": "abhishek shah",
+        "url": "https://github.com/ccplugins/awesome-claude-code-plugins"
+      },
+      "category": "Development",
+      "homepage": "https://github.com/emilliepost/claude-plugins/tree/main/plugins/react-native-dev",
+      "keywords": [
+        "react-native",
+        "mobile",
+        "ios",
+        "android",
+        "typescript"
+      ]
+    }
+  ]
+}
