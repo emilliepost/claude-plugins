@@ -28,6 +28,25 @@
         "android",
         "typescript"
       ]
+    },
+    {
+      "name": "b2b-project-shipper",
+      "source": "./plugins/b2b-project-shipper",
+      "description": "B2B launch orchestrator for enterprise releases, go-to-market strategies, and coordinating business product launches",
+      "version": "1.0.0",
+      "author": {
+        "name": "Alysson Franklin",
+        "url": "https://github.com/ccplugins/awesome-claude-code-plugins"
+      },
+      "category": "Project Management",
+      "homepage": "https://github.com/emilliepost/claude-plugins/tree/main/plugins/b2b-project-shipper",
+      "keywords": [
+        "b2b",
+        "launch",
+        "release",
+        "go-to-market",
+        "enterprise"
+      ]
     }
   ]
 }
